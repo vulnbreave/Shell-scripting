@@ -16,7 +16,7 @@ Feel free to clone this repo and commit changes or do whatever you want .
   Typical operations performed by shell scripts include file manipulation, program execution, and printing text. 
                                      
                                                                                           
-> Absoulte basics things to note . 
+> Absolute basics things to note . 
 
   First of all while writing a bash script do note that you always start off with specifying "SHEBANG" on the top. 
 
@@ -46,7 +46,7 @@ SHEBANG = #!/bin/bash
 
 // How to execute your script . 
 
- *To execute your script you can go the easy way or the little intermediate way . Whatdo i mean by that? . Well the easy way to do is . .
+ *To execute your script you can go the easy way or the little intermediate way . What do i mean by that? . Well the easy way to do is . .
 
   by adding "bash" in the front of your script 
   eg : bash script.sh 
@@ -62,7 +62,7 @@ SHEBANG = #!/bin/bash
 
 
   
-  THATS ALL!!!  the albsolute basics you need to know. Now your ready to ROCK ! See you there . 
+  THATS ALL!!!  the albsolute basics you need to know. YOUR READY TO ROCK ! See you there ;) 
   
   
   
