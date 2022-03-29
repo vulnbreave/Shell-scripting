@@ -1,4 +1,4 @@
-# Shell-scripting-
+# Shell-scripting
 So you want to lean bash scripting right? , COOL! Lets do this! 
 
 Welcome !  , In this repo you'll learn the essentials and the most fundumentals of shell scripting/bash script .
