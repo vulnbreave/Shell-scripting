@@ -4,6 +4,9 @@ So you want to lean bash scripting right? , COOL! Lets do this!
 Welcome !  , In this repo you'll learn the essentials and the most fundumentals of shell scripting/bash script .
 
 
+Feel free to clone this repo and commit changes or do whatever you want . 
+
+
 
 
 > What is a bash scripting? 
@@ -12,7 +15,7 @@ Welcome !  , In this repo you'll learn the essentials and the most fundumentals 
   The various dialects of shell scripts are considered to be scripting languages. 
   Typical operations performed by shell scripts include file manipulation, program execution, and printing text. 
                                      
-                                                                                         -wiki 
+                                                                                          
 > Absoulte basics things to note . 
 
   First of all while writing a bash script do note that you always start off with specifying "SHEBANG" on the top. 
@@ -21,7 +24,7 @@ Welcome !  , In this repo you'll learn the essentials and the most fundumentals 
 
    A shebang is the character sequence consisting of the characters number sign and exclamation mark at the beginning of a script. 
    It is also called sha-bang, hashbang, pound-bang, or hash-pling.   
-                                                                                         -wiki 
+                                                                                          
 
 SHEBANG = #!/bin/bash
 
@@ -54,9 +57,13 @@ SHEBANG = #!/bin/bash
    
    eg : ./script.sh 
 
-   BONUS : To give executble permission type 
+   BONUS : To give executable permission type 
            chmod +x scirpt.sh or chmod 700 script.sh 
 
 
-    Thats all the albsolute basics you need to know when writing a bash script. Now your ready to ROCK ! See you there . 
+  
+  THATS ALL!!!  the albsolute basics you need to know. Now your ready to ROCK ! See you there . 
+  
+  
+  
 
