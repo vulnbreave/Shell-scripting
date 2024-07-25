@@ -62,7 +62,7 @@ SHEBANG = #!/bin/bash
 
 
   
-  THATS ALL!!!  the albsolute basics you need to know. YOUR READY TO ROCK ! See you there ;) 
+  THATS ALL!!!  the albsolute basics you need to know. YOU ARE READY TO ROCK ! See you there ;) 
   
   
   
